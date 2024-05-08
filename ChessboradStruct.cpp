@@ -281,7 +281,7 @@ void ChessboradStruct::predictCorners(std::vector<cv::Vec2f>& p1, std::vector<cv
 		v2 = p3[i] - p2[i];
 		// predict angles
 		a1 = atan2(v1[1], v1[0]);
-		a2 = atan2(v1[1], v1[0]);
+		a2 = atan2(v2[1], v2[0]);
 		a3 = 2.0 * a2 - a1;
 
 		//predict scales
