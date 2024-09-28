@@ -26,9 +26,8 @@
 ##### [2] https://github.com/qibao77/cornerDetect
 
 ### bug me a coffee
-<p align="center">
-<img ![image](https://github.com/user-attachments/assets/e929f90d-581a-4e9b-893f-4996e912d22a) width="50"> 
-</p>
+![image](https://github.com/user-attachments/assets/69eb0b6e-df0f-423c-9230-622858789f1b)
+
 
 
 
