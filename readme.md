@@ -25,8 +25,6 @@
 
 ##### [2] https://github.com/qibao77/cornerDetect
 
-### bug me a coffee
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/34291327/371762438-69eb0b6e-df0f-423c-9230-622858789f1b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240928T135530Z&X-Amz-Expires=300&X-Amz-Signature=c76cf082426d35e9ea69d618b99112c009ef5718a417faee98de4301994e32b4&X-Amz-SignedHeaders=host" width="50" style="width:200px;height:auto;">
 
 
 
