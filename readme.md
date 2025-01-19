@@ -25,6 +25,8 @@
 
 ##### [2] https://github.com/qibao77/cornerDetect
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=113282376" height="20">](https://api.gitsponsors.com/api/badge/link?p=80qeK1gsfPYAjmzvTSnKlXCVheYCpyGGZnCeN1eGseM9HE+1nX7DF5J/c2yic32X)
+
 
 
 
